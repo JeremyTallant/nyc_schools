@@ -14,4 +14,4 @@ We will look at how performance varies by borough, identify how many schools fai
 6. **Best writing school:** Filter the database for the top-performing school, as measured by average writing scores.
 7. **Top 10 schools:** Create total SAT scores and find the top 10 best schools.
 8. **Ranking boroughs:** Find out how NYC SAT performance varies by borough.
-9. **Brooklyn numbers:**
+9. **Brooklyn numbers:** Find the top five best schools in Brooklyn by math score.
