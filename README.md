@@ -8,7 +8,7 @@ We will look at how performance varies by borough, identify how many schools fai
 ## Contents
 1. **Inspecting the data:** Let's inspect the first 10 rows of the database.
 2. **Finding missing values:** Count the number of schools not reporting the percentage of students tested and the total number of schools in the database.
-3. **Schools by building code:**
+3. **Schools by building code:** Find how many unique schools there are based on building code.
 4. **Best schools for math:**
 5. **Lowest reading score:**
 6. **Best writing school:**
