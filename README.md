@@ -13,5 +13,5 @@ We will look at how performance varies by borough, identify how many schools fai
 5. **Lowest reading score:** Find the lowest average reading score.
 6. **Best writing school:** Filter the database for the top-performing school, as measured by average writing scores.
 7. **Top 10 schools:** Create total SAT scores and find the top 10 best schools.
-8. **Ranking boroughs:**
+8. **Ranking boroughs:** Find out how NYC SAT performance varies by borough.
 9. **Brooklyn numbers:**
