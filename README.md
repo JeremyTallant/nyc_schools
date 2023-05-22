@@ -10,7 +10,7 @@ We will look at how performance varies by borough, identify how many schools fai
 2. **Finding missing values:** Count the number of schools not reporting the percentage of students tested and the total number of schools in the database.
 3. **Schools by building code:** Find how many unique schools there are based on building code.
 4. **Best schools for math:** Filter the database for all schools with math scores of at least 640.
-5. **Lowest reading score:**
+5. **Lowest reading score:** Find the lowest average reading score.
 6. **Best writing school:**
 7. **Top 10 schools:**
 8. **Ranking boroughs:**
