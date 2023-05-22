@@ -7,7 +7,7 @@ In this project, we will work with a SQL database containing test performance fr
 We will look at how performance varies by borough, identify how many schools fail to report information, and find the top ten performing schools across the city!
 ## Contents
 1. **Inspecting the data:** Let's inspect the first 10 rows of the database.
-2. **Finding missing values:**
+2. **Finding missing values:** Count the number of schools not reporting the percentage of students tested and the total number of schools in the database.
 3. **Schools by building code:**
 4. **Best schools for math:**
 5. **Lowest reading score:**
