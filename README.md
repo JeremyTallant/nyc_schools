@@ -11,7 +11,7 @@ We will look at how performance varies by borough, identify how many schools fai
 3. **Schools by building code:** Find how many unique schools there are based on building code.
 4. **Best schools for math:** Filter the database for all schools with math scores of at least 640.
 5. **Lowest reading score:** Find the lowest average reading score.
-6. **Best writing school:**
+6. **Best writing school:** Filter the database for the top-performing school, as measured by average writing scores.
 7. **Top 10 schools:**
 8. **Ranking boroughs:**
 9. **Brooklyn numbers:**
